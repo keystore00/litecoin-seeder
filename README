@@ -1,7 +1,7 @@
-litecoin-seeder
+monacoin-seeder
 ===============
 
-Litecoin-seeder is a crawler for the Litecoin network, which exposes a list
+Monacoin-seeder is a crawler for the Monacoin network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
